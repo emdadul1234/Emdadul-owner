@@ -12,6 +12,7 @@
     "@napi-rs/canvas": "^0.1.80",
     "1secmail-api": "^1.1.1",
     "axios": "^1.12.2",
+    "mahmud-fca": "^1.0.7",
     "bcrypt": "^5.0.1",
     "canvas": "^3.2.0",
     "chalk": "^4.1.2",
